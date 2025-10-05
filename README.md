@@ -1,9 +1,19 @@
 ## 📁 Tabla de Contenidos
 
-- [1. 📚 Documentación Técnica de la API de Usuarios y Autenticación (Taller NestJS)](#-documentación-técnica-de-la-api)
-- [2. 🚀 Colección de Pruebas en Postman](#-colección-de-pruebas-en-postman)
-- [3. 📄 Informe Reflexivo Corto](#-informe-reflexivo-corto)
-- [4. ❔ Preguntas de Reflexión](#-preguntas-de-reflexión)
+### [1. 📚 Documentación Técnica](#1-documentación-técnica)
+- [1.1. Introducción](#11-introducción)
+- [1.2. Endpoints de Autenticación](#12-endpoints-de-autenticación)
+- [1.3. Endpoints de Usuarios](#13-endpoints-de-usuarios)
+
+### [2. 🚀 Pruebas en Postman](#2-pruebas-en-postman)
+- [2.1. Colección de Pruebas](#21-colección-de-pruebas)
+- [2.2. Variables de Entorno](#22-variables-de-entorno)
+
+### [3. 📄 Informe Reflexivo](#3-informe-reflexivo)
+- [3.1. Lecciones Aprendidas](#31-lecciones-aprendidas)
+- [3.2. Dificultades y Soluciones](#32-dificultades-y-soluciones)
+
+### [4. ❓ Preguntas de Reflexión](#4-preguntas-de-reflexión)
 
 # 📚 Documentación Técnica de la API
 
